@@ -37,7 +37,6 @@ The **Caesar Cipher Wheel** is an interactive web-based visualization tool that 
 1. **Clone the repository**
 
    git clone https://github.com/yourusername/Caesar-Cipher-Wheel.git
-   cd Caesar-Cipher-Wheel
 
 
 2. **Open `index.html`** in your browser to view and interact with the cipher wheel.

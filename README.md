@@ -2,9 +2,8 @@
 
 The **Caesar Cipher Wheel** is an interactive web-based visualization tool that demonstrates how Caesar cipher encryption works. Users can rotate the cipher wheel to apply different shifts and observe real-time text encryption and decryption. This tool makes cryptography fun and intuitive for learners of all levels.
 
-![image](https://github.com/user-attachments/assets/b95dc23d-510d-4eab-8ece-91128e4a5eca)
 
-🔗 **Live Demo**: [View on GitHub Pages]([(https://jeevanbanoth.github.io/Caesar-Cipher-Wheel/))
+🔗 **Live Demo**: [View on GitHub Pages] https://jeevanbanoth.github.io/Caesar-Cipher-Wheel/
 
 ---
 
@@ -36,7 +35,6 @@ The **Caesar Cipher Wheel** is an interactive web-based visualization tool that 
 
 1. **Clone the repository**
 
-   git clone https://github.com/yourusername/Caesar-Cipher-Wheel.git
 
 
 2. **Open `index.html`** in your browser to view and interact with the cipher wheel.
